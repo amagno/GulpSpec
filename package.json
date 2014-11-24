@@ -1,0 +1,17 @@
+{
+  "name": "GulpSpec",
+  "version": "1.0.0",
+  "description": "Gulp and PHPSpec",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Alexandre Magno Monteiro",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-notify": "^2.0.0",
+    "gulp-phpspec": "^0.3.1",
+    "gulp-run": "^1.6.4"
+  }
+}

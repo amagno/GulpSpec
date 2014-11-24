@@ -1,0 +1,6 @@
+suites:
+  calculator_suite:
+    namespace: Calculator
+    src_path: app
+    spec_path: app
+    spec_preffix: spec
